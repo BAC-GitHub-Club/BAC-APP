@@ -10,7 +10,7 @@
 2. Clone your fork down to your local machine
 `git clone hhttps://github.com/YOUR-NAME/BAC-APP.git`
 get into the directory
-`cd OOAD
+`cd OOAD`
 3. Create a branch
 `git checkout -b branch-name`
 preferrably `feature-you-are-working-on`
